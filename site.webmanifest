@@ -1,0 +1,21 @@
+{
+  "name": "GitPilot3",
+  "short_name": "GitPilot3",
+  "description": "Free lightweight desktop Git client for daily workflows.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c1d34",
+  "theme_color": "#0c1d34",
+  "icons": [
+    {
+      "src": "/GitPilot3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/GitPilot3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
