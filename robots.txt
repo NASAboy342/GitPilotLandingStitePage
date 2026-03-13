@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gitpilot3.ppiinn.net/sitemap.xml
+Sitemap: https://gitpilot.ppiinn.net/sitemap.xml
